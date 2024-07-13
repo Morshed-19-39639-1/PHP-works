@@ -56,7 +56,7 @@ span {
   margin:50px auto 0;
 }
 .cover{
-  width:206px;
+  width:205px;
   height:120px;
   overflow:hidden;
   margin:0 auto;
@@ -77,7 +77,7 @@ span {
   left:36px;
 }
 .shape.s2{
-  top:45px;
+  top:46px;
   left:82px;
 }
 .shape.s3{
