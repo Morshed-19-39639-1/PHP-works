@@ -56,7 +56,7 @@ span {
   margin:50px auto 0;
 }
 .cover{
-  width:205px;
+  width:200px;
   height:120px;
   overflow:hidden;
   margin:0 auto;
