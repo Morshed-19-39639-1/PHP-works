@@ -177,9 +177,9 @@ body {
 
      <div id="adidas">
         <div class="cover">
-        <div class="shape s1"></div>
-        <div class="shape s2"></div>
-        <div class="shape s3"></div>
+            <div class="shape s1"></div>
+            <div class="shape s2"></div>
+            <div class="shape s3"></div>
         </div>
     </div>
     <div id="example">
