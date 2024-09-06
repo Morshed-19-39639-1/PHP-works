@@ -165,10 +165,12 @@ body {
 
     <center><h1>Microsoft logo</h1></center>
     <div class="logo">
+       
         <span class="blue"></span>
         <span class="green"></span>
         <span class="red"></span>
         <span class="yellow"></span>
+    
     </div high="70%" width="100%">
     
     <center><marquee behavior="scroll" direction="left" scrollamount="10"><h1>adidas logo</h1></marquee></center>
